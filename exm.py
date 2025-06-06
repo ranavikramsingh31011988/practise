@@ -13,7 +13,9 @@ pdf = pd.DataFrame({
 
 # Correct way to display Pandas DataFrame
 print(pdf)
-df = spark.createDataFrame(pdf)
+# df = spark.createDataFrame(pdf)
+#
+# # Show DataFrame
+# df.show()
 
-# Show DataFrame
-df.show()
+
