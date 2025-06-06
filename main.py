@@ -4,6 +4,4 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-
-for i in range(10):
-    print(i)
+print("hello")
